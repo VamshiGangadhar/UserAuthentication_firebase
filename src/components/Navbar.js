@@ -27,7 +27,7 @@ const Navbar = () => {
           }}
         >
           <Typography sx={{ textAlign: "center" }} variant="h4">
-            MMA LAB
+            User Authentication
           </Typography>
           {/*  */}
           <Button LinkComponent={Link} to="/login" variant="contained">
